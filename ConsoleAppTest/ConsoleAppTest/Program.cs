@@ -41,7 +41,6 @@ namespace ConsoleTestDelegates
 
         }
 
-
         static double DivNumber(double dblPA, double dblPB)
         {
 
