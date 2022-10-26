@@ -8,7 +8,7 @@ namespace ConsoleTestDelegates
 
     public class Program
     {
-
+        // C# Code
         delegate double ArithMeticProcessing(double dblParaA, double dblParaB);
 
         static double AddNumber(double dblPA, double dblPB)
